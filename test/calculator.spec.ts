@@ -16,5 +16,5 @@ describe('Test Calculator Class', ()=>{
 
         // Assert
         expect(result).to.equal(5);
-    })
-})
+    });
+});
