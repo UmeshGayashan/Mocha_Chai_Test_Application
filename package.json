@@ -2,18 +2,10 @@
   "name": "mocha_chai_test_application",
   "version": "1.0.0",
   "description": "Testing",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "UmeshGayashan",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/chai": "^4.3.14",
-    "@types/mocha": "^10.0.6",
-    "chai": "^5.1.0",
-    "mocha": "^10.4.0",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.4.3"
-  }
+  "license": "ISC"
 }
