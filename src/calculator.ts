@@ -15,3 +15,4 @@ class calculator{
         return a/b;
     }
 }
+export default calculator;
